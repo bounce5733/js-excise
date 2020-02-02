@@ -1,0 +1,2 @@
+read from txt file!
+再测试下中文
